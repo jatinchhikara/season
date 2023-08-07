@@ -1,4 +1,4 @@
-package com.example.project2
+package com.example.final_project
 
 import android.animation.ArgbEvaluator
 import android.animation.ObjectAnimator
